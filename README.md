@@ -1,3 +1,4 @@
+
 # Model Monitoring Module Structure
 
 This repository is dedicated to implementing model monitoring functionalities, crucial for maintaining the reliability and efficiency of machine learning models in production. We explore two structuring approaches: **Vendor-Based Structuring** and **Drift-Type-Based Structuring**.
